@@ -73,6 +73,16 @@ The Service Provider retains personal data based on its necessity for the stated
 
 You may request deletion of your personal data, subject to any legal obligation to retain it. If you want the Service Provider to delete User Provided Data submitted through the Application, please contact them at contactsanjaygireesh@gmail.com. Please note that some User Provided Data may be required for the Application to function properly.
 
+Permissions, Media Access, and AI Processing
+
+The Application may request access to certain device features and permissions in order to provide its core functionality. This includes access to the device microphone for speech recognition, English fluency assessments, voice-based learning activities, and other features that require spoken user input. Audio access is used solely for these educational and interactive purposes and is not used for advertising, profiling, or unrelated tracking activities. Spoken responses may be processed through speech recognition technologies and converted into text in order to generate fluency evaluations, personalized feedback, and learning recommendations.
+
+The Application may also request access to videos stored on your device to allow you to browse, select, and play your own video content for language learning purposes. Video files are accessed only when selected by you and are not uploaded, shared, or processed beyond what is necessary to provide playback, subtitle support, language analysis, and related educational features. The Service Provider does not claim ownership of any media content selected by users.
+
+To provide AI-powered educational features, portions of user-provided content, including text generated from speech recognition, subtitles, user interactions, learning preferences, and related educational inputs, may be transmitted to trusted artificial intelligence service providers for processing. These services are used exclusively to generate explanations, fluency assessments, learning assistance, recommendations, and other educational functionality requested by the user. The Service Provider does not sell personal information to AI providers, and information shared with such providers is limited to what is reasonably necessary to deliver the requested feature.
+
+The Application may utilize third-party services and infrastructure providers including, but not limited to, Google Play Services, Google Sign-In, Firebase Authentication, Firebase Firestore, Firebase Crashlytics, Google Play Billing, speech recognition services provided by the device or operating system, and AI service providers used to power educational features. These providers may process information in accordance with their own privacy policies and contractual obligations. The Service Provider takes reasonable measures to work only with service providers that offer appropriate safeguards for user data and comply with applicable privacy and data protection requirements.
+
 **Children**
 
 The Application is not intended for children under 13 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
