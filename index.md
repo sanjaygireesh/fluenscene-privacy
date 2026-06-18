@@ -81,7 +81,23 @@ The Application may also request access to videos stored on your device to allow
 
 To provide AI-powered educational features, portions of user-provided content, including text generated from speech recognition, subtitles, user interactions, learning preferences, and related educational inputs, may be transmitted to trusted artificial intelligence service providers for processing. These services are used exclusively to generate explanations, fluency assessments, learning assistance, recommendations, and other educational functionality requested by the user. The Service Provider does not sell personal information to AI providers, and information shared with such providers is limited to what is reasonably necessary to deliver the requested feature.
 
-The Application may utilize third-party services and infrastructure providers including, but not limited to, Google Play Services, Google Sign-In, Firebase Authentication, Firebase Firestore, Firebase Crashlytics, Google Play Billing, speech recognition services provided by the device or operating system, and AI service providers used to power educational features. These providers may process information in accordance with their own privacy policies and contractual obligations. The Service Provider takes reasonable measures to work only with service providers that offer appropriate safeguards for user data and comply with applicable privacy and data protection requirements.
+The Application may utilize third-party services and infrastructure providers including, but not limited to, Google Play Services, Google Sign-In, Firebase Authentication, Firebase Firestore, Firebase Crashlytics, Google Play Billing, speech recognition services provided by the device or operating system, artificial intelligence service providers, and user-selected AI providers accessed through user-supplied API keys. These providers may process information in accordance with their own privacy policies, terms of service, and contractual obligations. The Service Provider takes reasonable measures to work only with service providers that offer appropriate safeguards for user data and comply with applicable privacy and data protection requirements.
+
+**User-Provided AI API Keys and Subtitle Generation**
+
+The Application may allow users to optionally provide their own third-party artificial intelligence service API keys, including but not limited to API keys issued by AI providers such as Grok, OpenAI, Anthropic, Google, or other compatible AI services. These API keys are provided solely by the user and are used to authenticate requests made to the selected AI provider for features such as subtitle generation, subtitle translation, language analysis, educational explanations, and other AI-powered functionality.
+
+Where technically implemented, user-provided API keys are stored locally on the user's device and are not transmitted to, collected by, sold to, or permanently stored on the Service Provider's servers. The Service Provider does not have access to user billing information associated with third-party AI provider accounts.
+
+When a user chooses to use a third-party AI provider through their own API key, certain information required to perform the requested feature may be transmitted directly to that AI provider. Such information may include selected subtitle content, portions of audio-derived text, language preferences, prompts, or other content necessary to generate the requested output. The processing of such information is governed by the privacy policy and terms of service of the selected AI provider.
+
+Users are solely responsible for maintaining the security and confidentiality of their API keys, complying with the terms of service of the selected AI provider, monitoring usage associated with their account, and any fees or charges incurred through their use of third-party AI services.
+
+The Service Provider is not responsible for the privacy practices, security measures, data processing activities, service availability, account restrictions, billing practices, or policy changes of third-party AI providers. Users should review the privacy policies and terms of service of any AI provider before submitting API credentials or using AI-powered features.
+
+The Application may transmit requests through infrastructure operated by the Service Provider when necessary to facilitate functionality, improve reliability, enforce usage limits, or provide compatibility between the Application and supported AI services. In such cases, the Service Provider will take reasonable measures to minimize the information processed and protect data during transmission.
+
+
 
 **Children**
 
